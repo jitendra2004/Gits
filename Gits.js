@@ -40,3 +40,6 @@ function bugfixed1(){
 console.log(bugfixed1());
 
 console.log("my name is aarti yadav");
+
+const arrr=[4,4,5,4,2,5,1];
+console.log(arrr);
