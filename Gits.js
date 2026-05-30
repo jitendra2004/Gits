@@ -38,3 +38,5 @@ function bugfixed1(){
 
 }
 console.log(bugfixed1());
+
+console.log("my name is aarti yadav");
