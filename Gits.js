@@ -60,3 +60,6 @@ function greet (){
     console.log("I am Web development Course");
 }
 greet();
+
+const arr45=["hello ",5654,7,57,];
+console.log(arr45);
