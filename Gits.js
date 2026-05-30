@@ -43,3 +43,23 @@ console.log("my name is aarti yadav");
 
 const arrr=[4,4,5,4,2,5,1];
 console.log(arrr);
+const obj5={
+    name:"jitendra",
+    balance:454454,
+    age:44
+};
+console.log(obj5);
+
+function meet (){
+    console.log("My name is jitendra Yadav");
+
+};
+meet();
+
+function greet (){
+    console.log("I am Web development Course");
+}
+greet();
+
+const arr45=["hello ",5654,7,57,];
+console.log(arr45);
