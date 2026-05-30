@@ -55,3 +55,8 @@ function meet (){
 
 };
 meet();
+
+function greet (){
+    console.log("I am Web development Course");
+}
+greet();
