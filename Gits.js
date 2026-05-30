@@ -1,6 +1,7 @@
 const obj={
     name:"jitendra",
-    age:22
+    age:22,
+    no:4455555
 };
 console.log(obj);
 const obj1={
@@ -19,3 +20,10 @@ function sum (){
 };
 
 sum();
+
+function feature_login (){
+    console.log("hello bachoo");
+
+};
+
+feature_login();
