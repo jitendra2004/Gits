@@ -31,10 +31,12 @@ console,log(sum);
 
 console.log("hello bachhoo");
 
-function bugfixed(){
-    const sum=0;
-    console.log(sum);
-    console.log("bugfixed");
+function bugfixed1(){
+    const sum1=0;
+    console.log(sum1);
+    console.log("bugfixed1");
 
 }
-console.log(bugfixed());
+console.log(bugfixed1());
+
+console.log("my name is aarti yadav");
