@@ -14,4 +14,6 @@ console.log(obj1);
 function feature_login (){
     console.log("hello bachoo");
 
-}
+};
+
+feature_login();
