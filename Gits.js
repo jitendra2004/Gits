@@ -30,3 +30,11 @@ console.log(feature_login());
 console,log(sum);
 
 console.log("hello bachhoo");
+
+function bugfixed1(){
+    const sum1=0;
+    console.log(sum1);
+    console.log("bugfixed1");
+
+}
+console.log(bugfixed1());
